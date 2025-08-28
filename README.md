@@ -32,3 +32,7 @@ planned Structure
 /frontend   # React + Monaco Editor
 /backend    # Node/FastAPI APIs
 /docs       # screenshots, diagrams
+
+Screenshots
+
+![InterviewNow Architecture](docs/architecture.png)
